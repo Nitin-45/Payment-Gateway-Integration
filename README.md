@@ -1,6 +1,6 @@
 # Payment-Gateway-Integration
 
-# Developer - Anant Kumar Mathur
+# Developer - NITIN KUMAR
 
 # Task
 > Payment Gateway Integration - 
